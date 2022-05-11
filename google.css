@@ -1,0 +1,79 @@
+.textalg {
+    text-align: center;
+     margin-top: 5cm;
+}
+
+body {
+    background-color: white
+}
+
+.search{
+    background-color: rgb(237, 232, 232);
+    text-align: center;
+    margin: 0px 400px;
+}
+
+.mrg {
+    margin: 0px;
+}
+
+.search-bar {
+    
+    padding-top: 0px;
+    padding-bottom: 6px;
+    
+
+}
+
+
+
+.box1 {
+    background-color: aqua;
+    text-align: center;
+    padding-top: 0.5cm;
+    
+    width: 10.4cm;
+    height: 2.3cm;
+    float: left;
+    margin-left: 400px;
+    margin-top: 8px;
+    
+}
+
+.box2 {
+    background-color: rgb(61, 149, 149);
+    width: 8cm;
+    height: 2cm;
+    text-align: center;
+    padding-top: 0px;
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+    padding-top: 0.3cm;
+    padding-bottom: 0.5cm;
+}
+
+.box3 {
+    background-color: aqua;
+    width: 10.4cm;
+    height: 2cm;
+    text-align: center;
+    padding-top: 0.3cm;
+    padding-bottom: 0.5cm;
+    float: left;
+    margin-right: 200px;
+    margin-top: 8px;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.footer {
+    clear: both;
+    text-align: center;
+}
+
+/* Created by Berke çallı */
